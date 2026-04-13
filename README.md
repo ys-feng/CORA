@@ -5,8 +5,8 @@
 ### Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation
 
 [![Project Page](https://img.shields.io/badge/🌐_Project_Page-cora--agent.github.io-blue?style=for-the-badge)](https://cora-agent.github.io)
-[![Paper](https://img.shields.io/badge/📄_Paper-Coming_Soon-red?style=for-the-badge)](https://cora-agent.github.io)
-[![Code](https://img.shields.io/badge/💻_Code-Coming_Soon-green?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/📄_Paper-arXiv_2604.09155-red?style=for-the-badge)](https://arxiv.org/abs/2604.09155)
+[![Code](https://img.shields.io/badge/💻_Code-Coming_Soon-green?style=for-the-badge)](https://github.com/ys-feng/CORA)
 [![Benchmark](https://img.shields.io/badge/📊_Benchmark-Coming_Soon-orange?style=for-the-badge)](#)
 [![Model](https://img.shields.io/badge/🤖_Model-Coming_Soon-purple?style=for-the-badge)](#)
 
