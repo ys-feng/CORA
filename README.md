@@ -18,7 +18,7 @@
 
 This repository contains the official code implementation for the paper:
 
-> **CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation**
+> **[CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation](https://arxiv.org/abs/2604.09155)**
 
 CORA introduces a principled framework for building safer mobile GUI automation agents by leveraging conformal prediction to provide statistically rigorous risk control.
 
